@@ -13,7 +13,6 @@ module.exports = {
     siteLanguage: `en`,
     siteImage: `/banner.jpg`,
     author: `@mohitdeshpande`,
-    basePath,
   },
   plugins: [
     {
